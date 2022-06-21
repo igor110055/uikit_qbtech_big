@@ -25,7 +25,8 @@
     //"kubectl-helm-minikube": "latest",
     //"terraform": "latest",
     //"git": "latest",
-    "git-lfs": "latest", //gitで25MBのapkとかを扱う時に必要
+    "microsoft/vscode-dev-containers/git-lfs@v0.238.1": "latest",//git-lfsが3.2で少しエラーが出ているので下記をコメントアウトして暫定
+//     "git-lfs": "latest", //gitで25MBのapkとかを扱う時に必要
     //"github-cli": "latest",
     //"azure-cli": "latest",
     //"sshd": "latest",
