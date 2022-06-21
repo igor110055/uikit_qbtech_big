@@ -56,14 +56,14 @@ dev_dependencies:
   font_awesome_flutter:
   google_maps_flutter: ^2.1.1
   another_flushbar: ^1.10.28
-  credit_card: 
+  credit_card:
   shimmer:
   flutter_svg:
   url_launcher:
   eva_icons_flutter:
   provider:
   lottie:
-  pin_code_text_field: 
+  pin_code_text_field:
   i18n:
   flutter_rounded_date_picker:
   shared_preferences:
@@ -91,7 +91,7 @@ dev_dependencies:
   file_picker: ^4.4.0
   path:
   path_provider:
-  geolocator: 
+  geolocator:
   barcode_widget:
   # flutter_dialogflow:
   firebase_auth: ^3.3.7
@@ -504,7 +504,7 @@ flutter:
     - lib/Screen/FullApps/VinckierFoods/Assets/image/icon_video.png
     - lib/Screen/FullApps/VinckierFoods/Assets/image/noMessage.png
     - lib/Screen/FullApps/Safeway/splashScreen.png
-    - lib/Screen/FullApps/Snapcash/Assets/splashScreen.png
+    - lib/Screen/FullApps/Snapcash/Assets/SplashScreen.png
     - lib/Screen/FullApps/RecipesMeat/Assets/splash.png
     - lib/Screen/FullApps/RecipesMeat/Assets/appBar.png
     - lib/Screen/FullApps/RecipesMeat/Assets/background.png
@@ -658,38 +658,38 @@ flutter:
     - lib/Screen/UI_Screen/Expensa_Apps/assets/icon/receipt_logo.png
     - lib/Screen/UI_Screen/Expensa_Apps/assets/icon/sail_pagado.png
     - lib/Screen/UI_Screen/Expensa_Apps/assets/icon/splash_logo.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/EducationalCareer.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/EvalutionOfDiploma.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/GreenCard.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/InterviewTips.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/JobsInterview.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/LearnEnglish.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/Nursing.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/Resume.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/Scholarship.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/SpeakWithConfidence.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/SplashScreen.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/TrickVideo.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/nurse1.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/nurse3.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/nurse4.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/education2.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/instutionalGrant.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/federalGrant.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/onlineScholarships.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/stateGrant.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/chat.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/internshipsvisa.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/internshipsGcard.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/MyVisaJobs.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/indeedCard.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/MonsterGcardJobs.jpg
-    - lib/Screen/FullApps/NiuEducation/assets/image/onboarding1.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/onboarding2.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/onboarding3.png
-    - lib/Screen/FullApps/NiuEducation/assets/image/backdiploma.jpeg
-    - lib/Screen/FullApps/NiuEducation/assets/image/work.jpeg
-    - lib/Screen/FullApps/NiuEducation/assets/image/noNotification.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/EducationalCareer.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/EvalutionOfDiploma.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/GreenCard.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/InterviewTips.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/JobsInterview.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/LearnEnglish.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/Nursing.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/Resume.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/Scholarship.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/SpeakWithConfidence.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/SplashScreen.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/TrickVideo.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/nurse1.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/nurse3.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/nurse4.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/education2.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/instutionalGrant.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/federalGrant.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/onlineScholarships.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/stateGrant.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/chat.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/internshipsvisa.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/internshipsGcard.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/MyVisaJobs.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/indeedCard.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/MonsterGcardJobs.jpg
+    - lib/Screen/FullApps/NIuEducation/assets/image/onboarding1.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/onboarding2.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/onboarding3.png
+    - lib/Screen/FullApps/NIuEducation/assets/image/backdiploma.jpeg
+    - lib/Screen/FullApps/NIuEducation/assets/image/work.jpeg
+    - lib/Screen/FullApps/NIuEducation/assets/image/noNotification.png
     - lib/Screen/FullApps/Coinluv/image/onboarding1.png
     - lib/Screen/FullApps/Coinluv/image/onboarding2.png
     - lib/Screen/FullApps/Coinluv/image/onboarding3.png
